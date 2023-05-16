@@ -2,9 +2,7 @@
 
 Social engineering attack using a `.zip` domain.
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WR4IY04FqtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+[![video](http://img.youtube.com/vi/WR4IY04FqtU/0.jpg)](http://www.youtube.com/watch?v=WR4IY04FqtU "video")
 
 ## Description
 

@@ -2,7 +2,11 @@
 
 Social engineering attack using a `.zip` domain.
 
-[![video](http://img.youtube.com/vi/WR4IY04FqtU/0.jpg)](http://www.youtube.com/watch?v=WR4IY04FqtU "video")
+<div align="center">
+  <kbd>
+    <a href="https://www.youtube.com/watch?v=WR4IY04FqtU"><img src="https://img.youtube.com/vi/WR4IY04FqtU/hqdefault.jpg" alt="video"></a>
+  </kbd>
+</div>
 
 ## Description
 
